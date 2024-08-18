@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imranhasanrimon5@gmail.com**
 
-- 😊 Hobby **I love traveling**
+- 😊 Hobby: **I love traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
