@@ -7,7 +7,7 @@
         src="https://komarev.com/ghpvc/?username=imranhasanrimon&label=Profile%20views&color=0e75b6&style=flat"
         alt="imranhasanrimon" /> </p>
 
-- 🌱 I’m currently learning **Tailwind-css, JS**
+- 🌱 I’m currently learning **Node JS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imranhasanrimon](https://github.com/Imranhasanrimon)
 
