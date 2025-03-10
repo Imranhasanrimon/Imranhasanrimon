@@ -27,6 +27,21 @@
 
 ###
 
+<h2 align="center">About Me</h2>
+
+###
+
+<div align="center">
+<p align="justify">I am a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I specialize in React.js and JavaScript and am continuously learning full-stack technologies like Node.js and MongoDB.</p></br> </br>
+<p align="justify">💻 I'm currently learning Express.js</p></br>
+<p align="justify">🎯 Goal: Full stack web development</p></br>
+<p align="justify">✈️ I love traveling</p></br>
+
+
+</div>
+
+###
+
 <h2 align="center">Tech Stack</h2>
 
 ###
