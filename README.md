@@ -7,7 +7,7 @@
 ###
         
 <div align="center">
-  <img height="200" src="[https://media.licdn.com/dms/image/v2/D5616AQGxzEIUx3L9qA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722011261394?e=1741824000&v=beta&t=rk47W3AdHJ8obSLF7zYVqDF48OT7wqE8zM-4PciQ4L0](https://drive.google.com/file/d/1A683jZIeBquPNcb3TSksBZg1ASTwrurv/view?usp=sharing)"  />
+  <img height="200" src="https://i.ibb.co.com/7xJjhL8R/banner-coding.jpg"  />
 </div>
 
 ###
