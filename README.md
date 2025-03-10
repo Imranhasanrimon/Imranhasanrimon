@@ -32,10 +32,12 @@
 ###
 
 <div align="center">
-<p align="justify">I am a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I specialize in React.js and JavaScript and am continuously learning full-stack technologies like Node.js and MongoDB.</p></br> </br>
-<p align="justify">💻 I'm currently learning Express.js</p></br>
-<p align="justify">🎯 Goal: Full stack web development</p></br>
-<p align="justify">✈️ I love traveling</p></br>
+<p align="justify">I am a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I specialize in React.js and JavaScript, developing interactive and scalable user interfaces that enhance user experience. I have a strong foundation in HTML, CSS, and Tailwind CSS, ensuring visually appealing and well-structured designs.
+
+Beyond frontend development, I am continuously expanding my skill set by learning full-stack technologies like Node.js, Express.js, and MongoDB to build dynamic and data-driven applications. I enjoy problem-solving, optimizing web performance, and staying up-to-date with the latest industry trends. My goal is to become a well-rounded full-stack developer, contributing to impactful projects and collaborating with like-minded professionals. 🚀</p></br>
+<p align="justify">💻 I'm currently learning Express.js</p>
+<p align="justify">🎯 Goal: Full stack web development</p>
+<p align="justify">✈️ I love traveling</p>
 
 
 </div>
