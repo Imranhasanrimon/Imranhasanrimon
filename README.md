@@ -21,6 +21,7 @@
 ###
 
 <div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Imranhasanrimon&theme=dark" alt="GitHub Streak" /></a> </br>
   <img src="https://streak-stats.demolab.com?user=Imranhasanrimon&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> </br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imranhasanrimon&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
