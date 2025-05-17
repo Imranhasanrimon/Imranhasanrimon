@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hello 👋, I'm Imran Hasan</h1>
+<h1 align="center">Hello, I'm Imran Hasan</h1>
 
 ###
 
